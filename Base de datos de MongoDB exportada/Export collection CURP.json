@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6478b94f0b128bba15bc8e8a"
+  },
+  "Nombre": "Edgar",
+  "Apellido_1": "Talledos",
+  "Apellido_2": "Robledos",
+  "FechaDeNacimiento": "03-11-1988",
+  "EstadoDeNacimiento": "Oaxaca",
+  "CodigoFinal": "HOCLBD05"
+},
+{
+  "_id": {
+    "$oid": "6478b94f0b128bba15bc8e8b"
+  },
+  "Apellido_1": "Perez",
+  "Apellido_2": "Arellano",
+  "CodigoFinal": "HHGRRN07",
+  "EstadoDeNacimiento": "Hidalgo",
+  "FechaDeNacimiento": "13-07-1995",
+  "Nombre": "Enrique"
+},
+{
+  "_id": {
+    "$oid": "6478bb83a856455ae3ee9b5f"
+  },
+  "Nombre": "Luis ALberto",
+  "Apellido_1": "Lopez",
+  "Apellido_2": "Aviles",
+  "FechaDeNacimiento": "19-12-1990",
+  "EstadoDeNacimiento": "Morelos",
+  "CodigoFinal": "HMSPVS02"
+},
+{
+  "_id": {
+    "$oid": "6478bbc92393bfb43303f1a6"
+  },
+  "Nombre": "Luis Alberto",
+  "Apellido_1": "Monjaraz",
+  "Apellido_2": "Zavala",
+  "FechaDeNacimiento": "19-03-1998",
+  "EstadoDeNacimiento": "Guanajuato",
+  "CodigoFinal": "HGTNVS06"
+},
+{
+  "_id": {
+    "$oid": "6478bc2d0e2f2ef182af631b"
+  },
+  "Nombre": "Edgar",
+  "Apellido_1": "Medina",
+  "Apellido_2": "Diaz",
+  "FechaDeNacimiento": "17-10-1990",
+  "EstadoDeNacimiento": "CDMX",
+  "CodigoFinal": "HDFDZD02"
+},
+{
+  "_id": {
+    "$oid": "6478bb34e8bba32ce207555f"
+  },
+  "Nombre": "Alan",
+  "Apellido_1": "Lozada",
+  "Apellido_2": "Sanchez",
+  "FechaDeNacimiento": "17-12-1999",
+  "EstadoDeNacimiento": "Estado de Mexico",
+  "CodigoFinal": "HMCZNL06"
+},
+{
+  "_id": {
+    "$oid": "6478bd2a417daf3ea5d92706"
+  },
+  "Nombre": "Raul",
+  "FechaDeNacimiento": "26-07-1996",
+  "EstadoDeNacimiento": "Oaxaca",
+  "CodigoFinal": "HOCNLL08",
+  "Apellido_1": "Sanchez",
+  "Apellido_2": "Altamirano"
+},
+{
+  "_id": {
+    "$oid": "6478be4ee5b4b800c4a1bb33"
+  },
+  "Nombre": "Alejandro Cesar",
+  "Apellido_1": "Correa",
+  "Apellido_2": "Guzman",
+  "FechaDeNacimiento": "07-07-1987",
+  "EstadoDeNacimiento": "Oaxaca",
+  "CodigoFinal": "7HOCRZL00"
+}]
